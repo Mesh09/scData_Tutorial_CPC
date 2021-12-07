@@ -19,7 +19,7 @@ https://pandas.pydata.org/pandas-docs/stable/10min.html
 - If you are curious to learn Scanpy  
 https://scanpy.readthedocs.io/en/stable/index.html
 
-# scData Tutorial [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mesh09/scData_Tutorial/main?labpath=Tutorial_Template_Aging_Assignment.ipynb)
+# scData Tutorial [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mesh09/scData_Tutorial_CPC/main)
 Here you find the Assignment for the single-cell Tutorial. Click on the "launch binder" button to start your first analysis in a custom computing environment! We use binder here, so that you do not need to worry about installing python locally and all the packages that we would need during the analysis.  
 
 # scData Solution  
