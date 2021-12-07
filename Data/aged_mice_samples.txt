@@ -1,0 +1,14 @@
+identifier	name	batch	age	cells	data_set
+muc3838	Aging mouse 1 Male	pilot	24m	800	aged_mice
+muc3839	Aging mouse 2 Male	pilot	24m	500	aged_mice
+muc3840	Aging PBS Ctrl day 14	pilot	3m	500	aged_mice
+muc3841	Aging PBS Ctrl 2 day 21	pilot	3m	500	aged_mice
+muc4166	Aging mouse 3 Male	aging	24m	1000	aged_mice
+muc4167	Aging mouse 4 Male	aging	3m	1000	aged_mice
+muc4168	Aging mouse 5 Female	aging	24m	1000	aged_mice
+muc4169	ctrl PBS day 14	aging	3m	1000	aged_mice
+muc4170	ctrl PBS day 21	aging	3m	1000	aged_mice
+muc4172	PBS ctrl day 10_1	aging	3m	1000	aged_mice
+muc4173	PBS ctrl day 10_2	aging	3m	1000	aged_mice
+muc4174	Aging 6 Female	aging	24m	1000	aged_mice
+muc4175	Aging 7 Female	aging	24m	1000	aged_mice
